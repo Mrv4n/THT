@@ -177,7 +177,7 @@ echo $green"∆"$red"        TTT   HH   HH   TTT"$green  "       ∆"
 echo $green"∆                                   ∆"
 echo $green"∆~∆~∆~∆~∆~∆~∆~∆~∆~∆~∆~∆~∆~∆~∆~∆~∆~∆~∆"
 echo $cyan "author : Van and Mr.B0814"
-echo $cyan "no wa Mr.B0814 : 0823-7225-9461"
+echo $cyan "no wa Mr.B0814 : 089628368126"
 echo "------------------------------------- " |lolcat
 echo "             Thanks to                " |lolcat
 echo "        Tengkorak Hacker Team         " |lolcat
